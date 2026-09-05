@@ -1,0 +1,14 @@
+# A compose file so the prototype can be started with one command
+services:
+  airport-assistant:
+    build: .
+    # Publish the Streamlit port on the host
+    ports:
+      - "8501:8501"
+    # Restart automatically unless deliberately stopped
+    restart: unless-stopped
+    # Cap memory so a runaway process cannot exhaust the host
+    deploy:
+      resources:
+        limits:
+          memory: 6G

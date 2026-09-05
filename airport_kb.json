@@ -1,0 +1,688 @@
+[
+  {
+    "record_id": "KB01",
+    "name": "Gate B12",
+    "category": "gate",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 2, Zone B",
+    "description": "Boarding gate serving short-haul European departures.",
+    "opening_hours": "04:30-23:30",
+    "direction_text": "After security, follow the signs for Gates B1 to B20, then keep right for 200 metres.",
+    "accessibility": "Step-free access via lift 2B. Wheelchair assistance on request.",
+    "related_facilities": [
+      "Gate B10",
+      "Aviator Lounge",
+      "Level 2 Restrooms"
+    ],
+    "emergency_contact": "+49 30 0000 0112",
+    "synonyms": "boarding gate departure gate b12 plane door aircraft door",
+    "search_text": "gate b12 gate terminal 1 level 2, zone b boarding gate serving short-haul european departures. boarding gate departure gate b12 plane door aircraft door",
+    "clip_text": "a photo of an airport sign for gate, gate b12, terminal 1"
+  },
+  {
+    "record_id": "KB02",
+    "name": "Gate B10",
+    "category": "gate",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 2, Zone B",
+    "description": "Boarding gate serving long-haul intercontinental departures.",
+    "opening_hours": "04:30-23:30",
+    "direction_text": "After security, follow the signs for Gates B1 to B20 and stay left at the fork.",
+    "accessibility": "Step-free access via lift 2B. Priority boarding lane available.",
+    "related_facilities": [
+      "Gate B12",
+      "Level 2 Restrooms",
+      "Prayer and Quiet Room"
+    ],
+    "emergency_contact": "+49 30 0000 0110",
+    "synonyms": "gate b10 long haul intercontinental boarding gate departure",
+    "search_text": "gate b10 gate terminal 1 level 2, zone b boarding gate serving long-haul intercontinental departures. gate b10 long haul intercontinental boarding gate departure",
+    "clip_text": "a photo of an airport sign for gate, gate b10, terminal 1"
+  },
+  {
+    "record_id": "KB03",
+    "name": "Gate A05",
+    "category": "gate",
+    "terminal": "Terminal 2",
+    "floor_zone": "Level 2, Zone A",
+    "description": "Boarding gate serving domestic and regional departures.",
+    "opening_hours": "05:00-22:30",
+    "direction_text": "After Terminal 2 security, turn left and follow the signs for Gates A1 to A12.",
+    "accessibility": "Step-free access. Priority boarding lane available.",
+    "related_facilities": [
+      "Terminal 2 Restaurant Court",
+      "Skyview Business Lounge"
+    ],
+    "emergency_contact": "+49 30 0000 0105",
+    "synonyms": "gate a05 a5 domestic boarding regional departure gate a",
+    "search_text": "gate a05 gate terminal 2 level 2, zone a boarding gate serving domestic and regional departures. gate a05 a5 domestic boarding regional departure gate a",
+    "clip_text": "a photo of an airport sign for gate, gate a05, terminal 2"
+  },
+  {
+    "record_id": "KB04",
+    "name": "Gate C22",
+    "category": "gate",
+    "terminal": "Terminal 2",
+    "floor_zone": "Level 3, Zone C",
+    "description": "Boarding gate serving low-cost carrier departures, reached by shuttle bus.",
+    "opening_hours": "05:00-22:30",
+    "direction_text": "From Terminal 2 security, take lift C to level 3 and follow signs for the bus gates.",
+    "accessibility": "Lift access to the gate. Bus boarding is not step-free, staff assistance required.",
+    "related_facilities": [
+      "Gate A05",
+      "Terminal 2 Restaurant Court"
+    ],
+    "emergency_contact": "+49 30 0000 0122",
+    "synonyms": "gate c22 low cost bus gate remote stand shuttle boarding",
+    "search_text": "gate c22 gate terminal 2 level 3, zone c boarding gate serving low-cost carrier departures, reached by shuttle bus. gate c22 low cost bus gate remote stand shuttle boarding",
+    "clip_text": "a photo of an airport sign for gate, gate c22, terminal 2"
+  },
+  {
+    "record_id": "KB05",
+    "name": "Terminal 1 Check-in Halls A and B",
+    "category": "check_in",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 0, Halls A and B",
+    "description": "Main check-in and bag drop counters for all departing international flights.",
+    "opening_hours": "03:30-22:00",
+    "direction_text": "From the main entrance, walk straight ahead to the counters numbered 100 to 180.",
+    "accessibility": "Low-height counters at positions 101 and 102. Induction loop fitted.",
+    "related_facilities": [
+      "Terminal 1 Security Control",
+      "Special Assistance Desk"
+    ],
+    "emergency_contact": "+49 30 0000 0101",
+    "synonyms": "check in desk bag drop counter luggage drop ticket desk international",
+    "search_text": "terminal 1 check-in halls a and b check in terminal 1 level 0, halls a and b main check-in and bag drop counters for all departing international flights. check in desk bag drop counter luggage drop ticket desk international",
+    "clip_text": "a photo of an airport sign for check in, terminal 1 check-in halls a and b, terminal 1"
+  },
+  {
+    "record_id": "KB06",
+    "name": "Terminal 2 Check-in Halls C and D",
+    "category": "check_in",
+    "terminal": "Terminal 2",
+    "floor_zone": "Level 1, Halls C and D",
+    "description": "Check-in and bag drop counters for domestic and low-cost carrier flights.",
+    "opening_hours": "04:00-21:30",
+    "direction_text": "Enter Terminal 2 and walk to the counters numbered 200 to 260 on your left.",
+    "accessibility": "Low-height counters at positions 201 and 202. Step-free throughout.",
+    "related_facilities": [
+      "Terminal 2 Security Control",
+      "Bus and Coach Terminal"
+    ],
+    "emergency_contact": "+49 30 0000 0106",
+    "synonyms": "check in terminal 2 domestic bag drop counter desk low cost carrier",
+    "search_text": "terminal 2 check-in halls c and d check in terminal 2 level 1, halls c and d check-in and bag drop counters for domestic and low-cost carrier flights. check in terminal 2 domestic bag drop counter desk low cost carrier",
+    "clip_text": "a photo of an airport sign for check in, terminal 2 check-in halls c and d, terminal 2"
+  },
+  {
+    "record_id": "KB35",
+    "name": "Terminal 1 Departures Hall",
+    "category": "departures",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 0, Main Entrance",
+    "description": "Departures concourse with flight information screens and access to all check-in halls.",
+    "opening_hours": "24 hours",
+    "direction_text": "Enter Terminal 1 from the kerbside drop-off; the departure boards are directly ahead.",
+    "accessibility": "Step-free from the kerb. Tactile guidance path to the information desk.",
+    "related_facilities": [
+      "Terminal 1 Check-in Halls A and B",
+      "Central Information Desk"
+    ],
+    "emergency_contact": "+49 30 0000 0135",
+    "synonyms": "departures departure hall flying out leaving departure boards concourse",
+    "search_text": "terminal 1 departures hall departures terminal 1 level 0, main entrance departures concourse with flight information screens and access to all check-in halls. departures departure hall flying out leaving departure boards concourse",
+    "clip_text": "a photo of an airport sign for departures, terminal 1 departures hall, terminal 1"
+  },
+  {
+    "record_id": "KB07",
+    "name": "Terminal 1 Security Control",
+    "category": "security",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 1, Central",
+    "description": "Central passenger and hand-luggage screening checkpoint for Terminal 1.",
+    "opening_hours": "04:00-23:00",
+    "direction_text": "Take the escalator up one level from check-in and follow the red security signs.",
+    "accessibility": "Dedicated step-free lane for reduced-mobility passengers, lane 6.",
+    "related_facilities": [
+      "Terminal 1 Check-in Halls A and B",
+      "Gate B12"
+    ],
+    "emergency_contact": "+49 30 0000 0107",
+    "synonyms": "security check screening hand luggage scanner queue checkpoint terminal 1",
+    "search_text": "terminal 1 security control security terminal 1 level 1, central central passenger and hand-luggage screening checkpoint for terminal 1. security check screening hand luggage scanner queue checkpoint terminal 1",
+    "clip_text": "a photo of an airport sign for security, terminal 1 security control, terminal 1"
+  },
+  {
+    "record_id": "KB08",
+    "name": "Terminal 2 Security Control",
+    "category": "security",
+    "terminal": "Terminal 2",
+    "floor_zone": "Level 1, West",
+    "description": "Passenger and hand-luggage screening checkpoint for Terminal 2.",
+    "opening_hours": "04:30-22:00",
+    "direction_text": "From the Terminal 2 check-in halls, follow the red signs to the west end of level 1.",
+    "accessibility": "Step-free lane 3 for reduced-mobility passengers, staffed at all opening hours.",
+    "related_facilities": [
+      "Terminal 2 Check-in Halls C and D",
+      "Gate A05"
+    ],
+    "emergency_contact": "+49 30 0000 0108",
+    "synonyms": "security terminal 2 screening scanner checkpoint queue hand baggage",
+    "search_text": "terminal 2 security control security terminal 2 level 1, west passenger and hand-luggage screening checkpoint for terminal 2. security terminal 2 screening scanner checkpoint queue hand baggage",
+    "clip_text": "a photo of an airport sign for security, terminal 2 security control, terminal 2"
+  },
+  {
+    "record_id": "KB09",
+    "name": "Passport Control",
+    "category": "passport_control",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 1, after Security",
+    "description": "Border and immigration control for departures and arrivals outside the Schengen area.",
+    "opening_hours": "04:00-23:30",
+    "direction_text": "Immediately after security, follow the signs marked Passport Control and Border Police.",
+    "accessibility": "Step-free. Assisted lane available for passengers who cannot queue.",
+    "related_facilities": [
+      "Terminal 1 Security Control",
+      "Customs and Green Channel"
+    ],
+    "emergency_contact": "+49 30 0000 0109",
+    "synonyms": "passport control immigration border police stamp visa non schengen id check",
+    "search_text": "passport control passport control terminal 1 level 1, after security border and immigration control for departures and arrivals outside the schengen area. passport control immigration border police stamp visa non schengen id check",
+    "clip_text": "a photo of an airport sign for passport control, passport control, terminal 1"
+  },
+  {
+    "record_id": "KB10",
+    "name": "Customs and Green Channel",
+    "category": "customs",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 0, after Baggage Claim",
+    "description": "Customs channels for arriving passengers, including goods declaration.",
+    "opening_hours": "24 hours",
+    "direction_text": "After collecting your bags, walk towards the exit; the green and red channels are ahead.",
+    "accessibility": "Step-free channels. Staff available to assist with declaration forms.",
+    "related_facilities": [
+      "Terminal 1 Baggage Claim Hall",
+      "Meeting Point and Terminal Exit"
+    ],
+    "emergency_contact": "+49 30 0000 0100",
+    "synonyms": "customs green channel red channel declare goods duty tax import nothing to declare",
+    "search_text": "customs and green channel customs terminal 1 level 0, after baggage claim customs channels for arriving passengers, including goods declaration. customs green channel red channel declare goods duty tax import nothing to declare",
+    "clip_text": "a photo of an airport sign for customs, customs and green channel, terminal 1"
+  },
+  {
+    "record_id": "KB34",
+    "name": "Terminal 1 Arrivals Hall",
+    "category": "arrivals",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 0, Arrivals",
+    "description": "Arrivals concourse where passengers exit after customs, with meeting areas.",
+    "opening_hours": "24 hours",
+    "direction_text": "Follow the arrivals corridor to level 0; the hall opens out past the customs channels.",
+    "accessibility": "Fully step-free. Seating available throughout the hall.",
+    "related_facilities": [
+      "Terminal 1 Baggage Claim Hall",
+      "Meeting Point and Terminal Exit"
+    ],
+    "emergency_contact": "+49 30 0000 0134",
+    "synonyms": "arrivals arrival hall landing meet someone pick up greeting waiting area",
+    "search_text": "terminal 1 arrivals hall arrivals terminal 1 level 0, arrivals arrivals concourse where passengers exit after customs, with meeting areas. arrivals arrival hall landing meet someone pick up greeting waiting area",
+    "clip_text": "a photo of an airport sign for arrivals, terminal 1 arrivals hall, terminal 1"
+  },
+  {
+    "record_id": "KB11",
+    "name": "Terminal 1 Baggage Claim Hall",
+    "category": "baggage_claim",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 0, Arrivals",
+    "description": "Arrivals baggage reclaim belts 1 to 8 for all incoming Terminal 1 flights.",
+    "opening_hours": "05:00-01:00",
+    "direction_text": "Follow the arrivals corridor down to level 0 and check the belt number on the screens.",
+    "accessibility": "Fully step-free. Baggage trolleys available at the hall entrance.",
+    "related_facilities": [
+      "Lost and Found Office",
+      "Customs and Green Channel"
+    ],
+    "emergency_contact": "+49 30 0000 0111",
+    "synonyms": "baggage claim luggage belt suitcase reclaim carousel arrivals bags collect",
+    "search_text": "terminal 1 baggage claim hall baggage claim terminal 1 level 0, arrivals arrivals baggage reclaim belts 1 to 8 for all incoming terminal 1 flights. baggage claim luggage belt suitcase reclaim carousel arrivals bags collect",
+    "clip_text": "a photo of an airport sign for baggage claim, terminal 1 baggage claim hall, terminal 1"
+  },
+  {
+    "record_id": "KB12",
+    "name": "Terminal 2 Baggage Claim Hall",
+    "category": "baggage_claim",
+    "terminal": "Terminal 2",
+    "floor_zone": "Level 0, Arrivals East",
+    "description": "Arrivals baggage reclaim belts 9 to 14 for incoming Terminal 2 flights.",
+    "opening_hours": "05:30-00:30",
+    "direction_text": "From Terminal 2 arrivals, take the ramp down to level 0 and turn east towards belts 9 to 14.",
+    "accessibility": "Step-free ramp access. Trolleys available at both hall entrances.",
+    "related_facilities": [
+      "Bus and Coach Terminal",
+      "Car Rental Centre"
+    ],
+    "emergency_contact": "+49 30 0000 0112",
+    "synonyms": "baggage claim terminal 2 belt 9 belt 10 luggage reclaim carousel bags",
+    "search_text": "terminal 2 baggage claim hall baggage claim terminal 2 level 0, arrivals east arrivals baggage reclaim belts 9 to 14 for incoming terminal 2 flights. baggage claim terminal 2 belt 9 belt 10 luggage reclaim carousel bags",
+    "clip_text": "a photo of an airport sign for baggage claim, terminal 2 baggage claim hall, terminal 2"
+  },
+  {
+    "record_id": "KB13",
+    "name": "Left Luggage Storage",
+    "category": "left_luggage",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 0, next to Exit 5",
+    "description": "Short-term and overnight secure storage for passenger luggage.",
+    "opening_hours": "06:00-22:00",
+    "direction_text": "On level 0, walk past the baggage claim hall towards exit 5; the counter is on the right.",
+    "accessibility": "Step-free counter access. Staff assistance with heavy items on request.",
+    "related_facilities": [
+      "Terminal 1 Baggage Claim Hall",
+      "Lost and Found Office"
+    ],
+    "emergency_contact": "+49 30 0000 0113",
+    "synonyms": "left luggage storage locker store bags keep suitcase deposit hold baggage",
+    "search_text": "left luggage storage left luggage terminal 1 level 0, next to exit 5 short-term and overnight secure storage for passenger luggage. left luggage storage locker store bags keep suitcase deposit hold baggage",
+    "clip_text": "a photo of an airport sign for left luggage, left luggage storage, terminal 1"
+  },
+  {
+    "record_id": "KB14",
+    "name": "Lost and Found Office",
+    "category": "lost_and_found",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 0, next to Baggage Claim",
+    "description": "Office handling lost property reports and delayed or missing baggage claims.",
+    "opening_hours": "07:00-21:00",
+    "direction_text": "In the baggage claim hall, walk to the far left corner past belt 8.",
+    "accessibility": "Step-free access. Report forms available in large print.",
+    "related_facilities": [
+      "Terminal 1 Baggage Claim Hall",
+      "Central Information Desk"
+    ],
+    "emergency_contact": "+49 30 0000 0114",
+    "synonyms": "lost and found lost property missing bag lost phone left behind report stolen",
+    "search_text": "lost and found office lost and found terminal 1 level 0, next to baggage claim office handling lost property reports and delayed or missing baggage claims. lost and found lost property missing bag lost phone left behind report stolen",
+    "clip_text": "a photo of an airport sign for lost and found, lost and found office, terminal 1"
+  },
+  {
+    "record_id": "KB15",
+    "name": "Level 2 Restrooms",
+    "category": "restroom",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 2, near Gate B10",
+    "description": "Public restrooms including accessible cubicles and baby-changing facilities.",
+    "opening_hours": "24 hours",
+    "direction_text": "On level 2, between gates B8 and B10, on the left-hand side of the corridor.",
+    "accessibility": "Accessible cubicle with emergency call cord. Baby-changing table fitted.",
+    "related_facilities": [
+      "Gate B10",
+      "Prayer and Quiet Room"
+    ],
+    "emergency_contact": "+49 30 0000 0115",
+    "synonyms": "restroom toilet bathroom wc washroom lavatory loo baby changing",
+    "search_text": "level 2 restrooms restroom terminal 1 level 2, near gate b10 public restrooms including accessible cubicles and baby-changing facilities. restroom toilet bathroom wc washroom lavatory loo baby changing",
+    "clip_text": "a photo of an airport sign for restroom, level 2 restrooms, terminal 1"
+  },
+  {
+    "record_id": "KB16",
+    "name": "Terminal 2 Accessible Restrooms",
+    "category": "restroom",
+    "terminal": "Terminal 2",
+    "floor_zone": "Level 1, near Security",
+    "description": "Fully accessible restrooms with a changing-places facility for adults.",
+    "opening_hours": "24 hours",
+    "direction_text": "On level 1 in Terminal 2, immediately before the security entrance on the right.",
+    "accessibility": "Wheelchair-accessible with hoist, adult changing bench and emergency call cord.",
+    "related_facilities": [
+      "Terminal 2 Security Control",
+      "Terminal 2 Information Point"
+    ],
+    "emergency_contact": "+49 30 0000 0116",
+    "synonyms": "accessible toilet disabled restroom wheelchair wc changing places terminal 2",
+    "search_text": "terminal 2 accessible restrooms restroom terminal 2 level 1, near security fully accessible restrooms with a changing-places facility for adults. accessible toilet disabled restroom wheelchair wc changing places terminal 2",
+    "clip_text": "a photo of an airport sign for restroom, terminal 2 accessible restrooms, terminal 2"
+  },
+  {
+    "record_id": "KB17",
+    "name": "Prayer and Quiet Room",
+    "category": "prayer_room",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 2, Zone D",
+    "description": "Multi-faith prayer and quiet reflection room open to all passengers.",
+    "opening_hours": "24 hours",
+    "direction_text": "On level 2, follow the corridor past gate B14 and take the second door on the right.",
+    "accessibility": "Step-free access, seating provided, low sensory-stimulation environment.",
+    "related_facilities": [
+      "Level 2 Restrooms",
+      "Aviator Lounge"
+    ],
+    "emergency_contact": "+49 30 0000 0117",
+    "synonyms": "prayer room quiet room meditation multi faith chapel reflection silence worship",
+    "search_text": "prayer and quiet room prayer room terminal 1 level 2, zone d multi-faith prayer and quiet reflection room open to all passengers. prayer room quiet room meditation multi faith chapel reflection silence worship",
+    "clip_text": "a photo of an airport sign for prayer room, prayer and quiet room, terminal 1"
+  },
+  {
+    "record_id": "KB18",
+    "name": "Skyview Business Lounge",
+    "category": "lounge",
+    "terminal": "Terminal 2",
+    "floor_zone": "Level 3, Zone C",
+    "description": "Quiet seating, refreshments and workspaces for eligible passengers.",
+    "opening_hours": "05:30-22:30",
+    "direction_text": "After security in Terminal 2, take lift C to level 3 and turn left.",
+    "accessibility": "Lift access, accessible restroom inside the lounge, quiet room available.",
+    "related_facilities": [
+      "Gate A05",
+      "Terminal 2 Restaurant Court"
+    ],
+    "emergency_contact": "+49 30 0000 0118",
+    "synonyms": "lounge business lounge skyview quiet seating rest relax terminal 2 wait",
+    "search_text": "skyview business lounge lounge terminal 2 level 3, zone c quiet seating, refreshments and workspaces for eligible passengers. lounge business lounge skyview quiet seating rest relax terminal 2 wait",
+    "clip_text": "a photo of an airport sign for lounge, skyview business lounge, terminal 2"
+  },
+  {
+    "record_id": "KB19",
+    "name": "Aviator Lounge",
+    "category": "lounge",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 2, Zone B",
+    "description": "Airside lounge with seating, hot food and showers, open to lounge pass holders.",
+    "opening_hours": "05:00-23:00",
+    "direction_text": "On level 2 after security, follow the signs past gate B12 and up the short staircase.",
+    "accessibility": "Lift access available; ask staff at the lounge entrance to open the accessible route.",
+    "related_facilities": [
+      "Gate B12",
+      "Prayer and Quiet Room"
+    ],
+    "emergency_contact": "+49 30 0000 0119",
+    "synonyms": "lounge aviator terminal 1 business lounge shower rest quiet seating wait",
+    "search_text": "aviator lounge lounge terminal 1 level 2, zone b airside lounge with seating, hot food and showers, open to lounge pass holders. lounge aviator terminal 1 business lounge shower rest quiet seating wait",
+    "clip_text": "a photo of an airport sign for lounge, aviator lounge, terminal 1"
+  },
+  {
+    "record_id": "KB20",
+    "name": "Terminal 2 Restaurant Court",
+    "category": "restaurant",
+    "terminal": "Terminal 2",
+    "floor_zone": "Level 2, Central",
+    "description": "Food court with hot meals, casual dining and grab-and-go options after security.",
+    "opening_hours": "05:00-22:00",
+    "direction_text": "After security in Terminal 2, walk straight ahead for 150 metres to the central court.",
+    "accessibility": "Step-free, lowered service counters, allergen menus available on request.",
+    "related_facilities": [
+      "Skyview Business Lounge",
+      "Gate A05"
+    ],
+    "emergency_contact": "+49 30 0000 0120",
+    "synonyms": "restaurant food court eat meal hot food dining hungry lunch dinner airside",
+    "search_text": "terminal 2 restaurant court restaurant terminal 2 level 2, central food court with hot meals, casual dining and grab-and-go options after security. restaurant food court eat meal hot food dining hungry lunch dinner airside",
+    "clip_text": "a photo of an airport sign for restaurant, terminal 2 restaurant court, terminal 2"
+  },
+  {
+    "record_id": "KB21",
+    "name": "Sky Grill Restaurant",
+    "category": "restaurant",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 2, Zone A",
+    "description": "Sit-down restaurant with table service and a view over the apron.",
+    "opening_hours": "06:00-21:30",
+    "direction_text": "On level 2 after security, turn right at the shopping gallery and continue 80 metres.",
+    "accessibility": "Step-free, accessible tables at the window, allergen menu available.",
+    "related_facilities": [
+      "Roastery Coffee Bar",
+      "Duty Free and Shopping Gallery"
+    ],
+    "emergency_contact": "+49 30 0000 0121",
+    "synonyms": "restaurant sit down table service terminal 1 dinner lunch eat meal sky grill",
+    "search_text": "sky grill restaurant restaurant terminal 1 level 2, zone a sit-down restaurant with table service and a view over the apron. restaurant sit down table service terminal 1 dinner lunch eat meal sky grill",
+    "clip_text": "a photo of an airport sign for restaurant, sky grill restaurant, terminal 1"
+  },
+  {
+    "record_id": "KB22",
+    "name": "Roastery Coffee Bar",
+    "category": "cafe",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 1, near Security",
+    "description": "Coffee bar serving espresso, pastries and cold drinks, landside before security.",
+    "opening_hours": "04:30-21:00",
+    "direction_text": "On level 1, directly opposite the entrance to security control.",
+    "accessibility": "Step-free, lowered counter section, seating with removable chairs.",
+    "related_facilities": [
+      "Terminal 1 Security Control",
+      "Sky Grill Restaurant"
+    ],
+    "emergency_contact": "+49 30 0000 0122",
+    "synonyms": "cafe coffee espresso latte snack pastry drink quick bite coffee shop",
+    "search_text": "roastery coffee bar cafe terminal 1 level 1, near security coffee bar serving espresso, pastries and cold drinks, landside before security. cafe coffee espresso latte snack pastry drink quick bite coffee shop",
+    "clip_text": "a photo of an airport sign for cafe, roastery coffee bar, terminal 1"
+  },
+  {
+    "record_id": "KB23",
+    "name": "Duty Free and Shopping Gallery",
+    "category": "shops",
+    "terminal": "Terminal 2",
+    "floor_zone": "Level 2, after Security",
+    "description": "Duty-free store and retail gallery selling gifts, electronics and fragrances.",
+    "opening_hours": "05:00-22:30",
+    "direction_text": "Immediately after Terminal 2 security, the gallery runs along the main airside corridor.",
+    "accessibility": "Step-free throughout, wide aisles, staff assistance on request.",
+    "related_facilities": [
+      "Terminal 2 Restaurant Court",
+      "Currency Exchange and ATMs"
+    ],
+    "emergency_contact": "+49 30 0000 0123",
+    "synonyms": "shops duty free shopping gift buy souvenir perfume electronics retail store",
+    "search_text": "duty free and shopping gallery shops terminal 2 level 2, after security duty-free store and retail gallery selling gifts, electronics and fragrances. shops duty free shopping gift buy souvenir perfume electronics retail store",
+    "clip_text": "a photo of an airport sign for shops, duty free and shopping gallery, terminal 2"
+  },
+  {
+    "record_id": "KB24",
+    "name": "Currency Exchange and ATMs",
+    "category": "atm_currency",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 1, Main Concourse",
+    "description": "Currency exchange bureau and a bank of cash machines accepting international cards.",
+    "opening_hours": "06:00-22:00 (ATMs 24 hours)",
+    "direction_text": "On level 1, beside the central information desk, marked with a currency symbol.",
+    "accessibility": "Step-free. One ATM at lowered height with audio guidance via headphone socket.",
+    "related_facilities": [
+      "Central Information Desk",
+      "Duty Free and Shopping Gallery"
+    ],
+    "emergency_contact": "+49 30 0000 0124",
+    "synonyms": "atm cash machine currency exchange money change euros withdraw bureau de change",
+    "search_text": "currency exchange and atms atm currency terminal 1 level 1, main concourse currency exchange bureau and a bank of cash machines accepting international cards. atm cash machine currency exchange money change euros withdraw bureau de change",
+    "clip_text": "a photo of an airport sign for atm currency, currency exchange and atms, terminal 1"
+  },
+  {
+    "record_id": "KB25",
+    "name": "Airport Pharmacy and Medical Point",
+    "category": "pharmacy_medical",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 1, Main Concourse",
+    "description": "Pharmacy counter and first-aid point staffed by qualified medical personnel.",
+    "opening_hours": "06:00-22:00",
+    "direction_text": "On level 1, next to the central information desk, marked with a green cross.",
+    "accessibility": "Step-free access, seated waiting area, private consultation room.",
+    "related_facilities": [
+      "Central Information Desk",
+      "Special Assistance Desk"
+    ],
+    "emergency_contact": "+49 30 0000 0125",
+    "synonyms": "pharmacy chemist medical first aid medicine doctor nurse unwell sick painkiller",
+    "search_text": "airport pharmacy and medical point pharmacy medical terminal 1 level 1, main concourse pharmacy counter and first-aid point staffed by qualified medical personnel. pharmacy chemist medical first aid medicine doctor nurse unwell sick painkiller",
+    "clip_text": "a photo of an airport sign for pharmacy medical, airport pharmacy and medical point, terminal 1"
+  },
+  {
+    "record_id": "KB26",
+    "name": "Central Information Desk",
+    "category": "information_desk",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 1, Main Concourse",
+    "description": "Staffed information point for flight, terminal and transport enquiries.",
+    "opening_hours": "05:00-23:00",
+    "direction_text": "In the centre of the main concourse on level 1, opposite the departure boards.",
+    "accessibility": "Step-free, staffed at all opening hours, sign language available on request.",
+    "related_facilities": [
+      "Special Assistance Desk",
+      "Lost and Found Office"
+    ],
+    "emergency_contact": "+49 30 0000 0126",
+    "synonyms": "information desk help point staff assistance ask question service counter lost",
+    "search_text": "central information desk information desk terminal 1 level 1, main concourse staffed information point for flight, terminal and transport enquiries. information desk help point staff assistance ask question service counter lost",
+    "clip_text": "a photo of an airport sign for information desk, central information desk, terminal 1"
+  },
+  {
+    "record_id": "KB27",
+    "name": "Terminal 2 Information Point",
+    "category": "information_desk",
+    "terminal": "Terminal 2",
+    "floor_zone": "Level 1, Check-in Hall C",
+    "description": "Staffed information point serving Terminal 2 passengers.",
+    "opening_hours": "05:00-21:30",
+    "direction_text": "At the entrance to check-in hall C, beside the departure boards.",
+    "accessibility": "Step-free, hearing loop fitted, seated waiting area beside the desk.",
+    "related_facilities": [
+      "Terminal 2 Check-in Halls C and D",
+      "Terminal 2 Accessible Restrooms"
+    ],
+    "emergency_contact": "+49 30 0000 0127",
+    "synonyms": "information terminal 2 help desk staff ask question service point",
+    "search_text": "terminal 2 information point information desk terminal 2 level 1, check-in hall c staffed information point serving terminal 2 passengers. information terminal 2 help desk staff ask question service point",
+    "clip_text": "a photo of an airport sign for information desk, terminal 2 information point, terminal 2"
+  },
+  {
+    "record_id": "KB28",
+    "name": "Special Assistance Desk",
+    "category": "special_assistance",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 0, Check-in Hall A",
+    "description": "Dedicated desk arranging mobility assistance and support for passengers with disabilities.",
+    "opening_hours": "04:00-23:00",
+    "direction_text": "At the entrance to check-in hall A, first desk on the left, marked with a blue symbol.",
+    "accessibility": "Step-free, seated waiting area, hearing loop, assistance dogs welcome.",
+    "related_facilities": [
+      "Terminal 1 Check-in Halls A and B",
+      "Central Information Desk"
+    ],
+    "emergency_contact": "+49 30 0000 0128",
+    "synonyms": "special assistance wheelchair mobility help disability support accessible aid carer",
+    "search_text": "special assistance desk special assistance terminal 1 level 0, check-in hall a dedicated desk arranging mobility assistance and support for passengers with disabilities. special assistance wheelchair mobility help disability support accessible aid carer",
+    "clip_text": "a photo of an airport sign for special assistance, special assistance desk, terminal 1"
+  },
+  {
+    "record_id": "KB29",
+    "name": "Airport Train Station",
+    "category": "train_station",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level -1, Transport Hub",
+    "description": "Regional and city train services connecting the airport to the city centre.",
+    "opening_hours": "04:00-01:00",
+    "direction_text": "From arrivals, take the escalator down one level and follow the green transport signs.",
+    "accessibility": "Lift access to all platforms. Tactile guidance path from the arrivals hall.",
+    "related_facilities": [
+      "Taxi Pick-up Zone",
+      "Bus and Coach Terminal"
+    ],
+    "emergency_contact": "+49 30 0000 0129",
+    "synonyms": "train station railway city centre rail platform metro s-bahn express connection",
+    "search_text": "airport train station train station terminal 1 level -1, transport hub regional and city train services connecting the airport to the city centre. train station railway city centre rail platform metro s-bahn express connection",
+    "clip_text": "a photo of an airport sign for train station, airport train station, terminal 1"
+  },
+  {
+    "record_id": "KB30",
+    "name": "Bus and Coach Terminal",
+    "category": "bus_terminal",
+    "terminal": "Terminal 2",
+    "floor_zone": "Level 0, Bays 1 to 12",
+    "description": "Regional coach and shuttle bus departures serving nearby cities and hotels.",
+    "opening_hours": "04:30-00:30",
+    "direction_text": "Leave Terminal 2 arrivals and cross the pedestrian walkway to the bus bays.",
+    "accessibility": "Level boarding at bays 1 to 4. Audio announcements at every bay.",
+    "related_facilities": [
+      "Airport Train Station",
+      "Car Rental Centre"
+    ],
+    "emergency_contact": "+49 30 0000 0130",
+    "synonyms": "bus coach shuttle terminal bay transfer regional hotel shuttle long distance",
+    "search_text": "bus and coach terminal bus terminal terminal 2 level 0, bays 1 to 12 regional coach and shuttle bus departures serving nearby cities and hotels. bus coach shuttle terminal bay transfer regional hotel shuttle long distance",
+    "clip_text": "a photo of an airport sign for bus terminal, bus and coach terminal, terminal 2"
+  },
+  {
+    "record_id": "KB31",
+    "name": "Taxi Pick-up Zone",
+    "category": "taxi",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 0, Outside Arrivals Exit 3",
+    "description": "Official licensed taxi rank directly outside the arrivals hall.",
+    "opening_hours": "24 hours",
+    "direction_text": "Exit the arrivals hall through door 3; the rank is immediately on your right.",
+    "accessibility": "Wheelchair-accessible taxis available on request at the rank marshal desk.",
+    "related_facilities": [
+      "Airport Train Station",
+      "Terminal 1 Arrivals Hall"
+    ],
+    "emergency_contact": "+49 30 0000 0131",
+    "synonyms": "taxi cab rank pick up ride hail car outside arrivals licensed driver",
+    "search_text": "taxi pick-up zone taxi terminal 1 level 0, outside arrivals exit 3 official licensed taxi rank directly outside the arrivals hall. taxi cab rank pick up ride hail car outside arrivals licensed driver",
+    "clip_text": "a photo of an airport sign for taxi, taxi pick-up zone, terminal 1"
+  },
+  {
+    "record_id": "KB32",
+    "name": "Car Rental Centre",
+    "category": "car_rental",
+    "terminal": "Terminal 2",
+    "floor_zone": "Level 0, Transport Plaza",
+    "description": "Combined desks for all car hire companies, with vehicle collection in the adjacent car park.",
+    "opening_hours": "06:00-23:00",
+    "direction_text": "From Terminal 2 arrivals, follow the green transport signs across the plaza for 150 metres.",
+    "accessibility": "Step-free route from arrivals. Adapted vehicles available with advance booking.",
+    "related_facilities": [
+      "Bus and Coach Terminal",
+      "Terminal 2 Baggage Claim Hall"
+    ],
+    "emergency_contact": "+49 30 0000 0132",
+    "synonyms": "car rental hire car rent a car vehicle collection driving desk booking",
+    "search_text": "car rental centre car rental terminal 2 level 0, transport plaza combined desks for all car hire companies, with vehicle collection in the adjacent car park. car rental hire car rent a car vehicle collection driving desk booking",
+    "clip_text": "a photo of an airport sign for car rental, car rental centre, terminal 2"
+  },
+  {
+    "record_id": "KB33",
+    "name": "Terminal 1 Lifts and Escalators",
+    "category": "lift",
+    "terminal": "Terminal 1",
+    "floor_zone": "All levels, Central Core",
+    "description": "Passenger lifts and escalators connecting levels -1 to 3 in the central core.",
+    "opening_hours": "24 hours",
+    "direction_text": "The central lift bank is beside the departure boards on every level, marked with a lift symbol.",
+    "accessibility": "All lifts are wheelchair-accessible with braille buttons and audio floor announcements.",
+    "related_facilities": [
+      "Central Information Desk",
+      "Airport Train Station"
+    ],
+    "emergency_contact": "+49 30 0000 0133",
+    "synonyms": "lift elevator escalator stairs upper level go up go down floor change access",
+    "search_text": "terminal 1 lifts and escalators lift terminal 1 all levels, central core passenger lifts and escalators connecting levels -1 to 3 in the central core. lift elevator escalator stairs upper level go up go down floor change access",
+    "clip_text": "a photo of an airport sign for lift, terminal 1 lifts and escalators, terminal 1"
+  },
+  {
+    "record_id": "KB36",
+    "name": "Meeting Point and Terminal Exit",
+    "category": "exit",
+    "terminal": "Terminal 1",
+    "floor_zone": "Level 0, Arrivals Hall Centre",
+    "description": "Designated meeting point beneath the clock, beside the main terminal exit doors.",
+    "opening_hours": "24 hours",
+    "direction_text": "In the centre of the arrivals hall, look for the tall blue Meeting Point column.",
+    "accessibility": "Step-free, seating available, clearly signed in large high-contrast text.",
+    "related_facilities": [
+      "Terminal 1 Arrivals Hall",
+      "Taxi Pick-up Zone"
+    ],
+    "emergency_contact": "+49 30 0000 0136",
+    "synonyms": "exit meeting point way out leave terminal greet family waiting friends doors",
+    "search_text": "meeting point and terminal exit exit terminal 1 level 0, arrivals hall centre designated meeting point beneath the clock, beside the main terminal exit doors. exit meeting point way out leave terminal greet family waiting friends doors",
+    "clip_text": "a photo of an airport sign for exit, meeting point and terminal exit, terminal 1"
+  }
+]

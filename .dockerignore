@@ -1,0 +1,18 @@
+# Keep the build context small and free of anything that should not ship
+  # A large context slows every build and risks copying private files into the image
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.ipynb
+
+# Generated datasets: the container only needs the knowledge base, not the training data
+airport_dataset/
+airport_audio/
+
+# Evaluation outputs belong in the report, not in the deployed image
+*.csv
+*.png
+
+# Never copy credentials into an image
+.env
+*.key
